@@ -45,6 +45,9 @@ module.exports = {
                             config: {
                                 path: 'postcss.config.js'
                             }
+                            // plugins: [
+                            //     require('autoprefixer')
+                            // ]
                         }
                     }
                 ]
